@@ -1,0 +1,17 @@
+- id: 0
+  descrip: AK-47
+  size: 8
+  type: gun
+  price: 8000
+  damage: 18
+- id: 1
+  descrip: m416
+  size: 8
+  type: gun
+  price: 15000
+  damage: 30
+- id: 2
+  descrip: Red keycard
+  size: 1
+  price: 20000000
+  alldoorsopen: true
